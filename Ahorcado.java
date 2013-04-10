@@ -166,4 +166,5 @@ public class Ahorcado extends Applet
     public void keyPressed(KeyEvent e) {
     }
     /*borrado y comentado*/
+    //Añado otra linea, venga...
 }

@@ -165,5 +165,6 @@ public class Ahorcado extends Applet
  
     public void keyPressed(KeyEvent e) {
     }
+    /* comentario prueba github*/
  
 }

@@ -30,7 +30,7 @@ public class Ahorcado extends Applet
         "Valencia","Valladolid","Zaragoza"
     };
  
- 
+    /* Vamos a ver que ocurre */
     void PrimerFallo(Graphics g)
     {   // Primer fallo: Dibujamos la "plataforma"
         g.setColor(Color.cyan);
@@ -165,6 +165,7 @@ public class Ahorcado extends Applet
  
     public void keyPressed(KeyEvent e) {
     }
-    /* comentario prueba github*/
+    /* Te modifico el comentario mientras tanto*/
+    /* Y añado otro #BonusExtra */
  
 }
